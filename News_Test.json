@@ -1,6 +1,42 @@
 {
-  "title": "Sanrio Virtual Festival 2025 Summer Edition の開催が決まりました♪ ",
-  "date": "2025/8/5 18:52",
-  "description": "「Sanrio Virtual Festival 2025 Summer Edition」の開催が決まりました♪\n\n本イベントは「VRChat」を中心にお楽しみいただける、VRテーマパークです。\n\n2月に開催された「Sanrio Virtual Festival 2025」アーティストパフォーマンスの再上演を中心に、楽しいコンテンツが盛りだくさんです！\n\n再上演されるアーティストはこちらの方々！\n今回もみんなで盛り上がろう♪",
-  "image": "https://raw.githubusercontent.com/rin0700/json_test.github.io/main/sanrioimage.jpg"
+  "meta": {
+    "type": "event",
+    "category": "announcement",
+    "source": "Sanrio Virtual Festival Official",
+    "languages": ["ja", "en"]
+  },
+
+  "content": {
+    "ja": {
+      "title": "Sanrio Virtual Festival 2025 Summer Edition の開催が決まりました♪",
+      "date": {
+        "published": "2025-08-05T18:52:00+09:00",
+        "timezone": "JST"
+      },
+      "body": "「Sanrio Virtual Festival 2025 Summer Edition」の開催が決まりました♪\n\n本イベントは「VRChat」を中心にお楽しみいただける、VRテーマパークです。\n\n2月に開催された「Sanrio Virtual Festival 2025」アーティストパフォーマンスの再上演を中心に、楽しいコンテンツが盛りだくさんです！\n\n再上演されるアーティストはこちらの方々！\n今回もみんなで盛り上がろう♪"
+    },
+
+    "en": {
+      "title": "Sanrio Virtual Festival 2025 Summer Edition is coming this summer!",
+      "date": {
+        "published": "2025-08-05T18:52:00+09:00",
+        "timezone": "JST"
+      },
+      "body": "The Sanrio Virtual Festival 2025 Summer Edition has been announced!\n\nThis event is a VR theme park you can enjoy mainly in VRChat.\n\nIt features encore performances from the February festival, along with lots of new and exciting content!\n\nCheck out the artists performing again this summer and join us for another round of fun!"
+    }
+  },
+
+  "visual": {
+    "imagenumber": 1,
+    "images": [
+      "https://raw.githubusercontent.com/rin0700/json_test.github.io/main/sanrioimage.jpg"
+    ]
+  },
+
+  "links": {
+    "official": "https://v-fes.sanrio.co.jp/news/031",
+    "social": {
+      "twitter": "https://twitter.com/sanrio_vfes"
+    }
+  }
 }
