@@ -27,7 +27,7 @@
   },
 
   "visual": {
-    "imagenumber": 5,
+    "imagenumber": [1, 10, 5, 14],
     "images": [
       "https://raw.githubusercontent.com/rin0700/Udon_json_Test/main/SanrioVfes_WorldThumbnail/ChillPark_PC_Thumbnail_2025.png",
       "https://raw.githubusercontent.com/rin0700/Udon_json_Test/main/SanrioVfes_WorldThumbnail/ChillPark_PC_Thumbnail_2025.png",
