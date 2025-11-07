@@ -27,9 +27,9 @@
   },
 
   "visual": {
-    "imagenumber": [1],
+    "imagenumber": [17, 12, 3],
     "images": [
-      "https://raw.githubusercontent.com/rin0700/Udon_json_Test/main/SanrioVfes_WorldThumbnail/sanrioimage.jpg",
+      "https://raw.githubusercontent.com/rin0700/Udon_json_Test/main/SanrioVfes_WorldThumbnail/ChillPark_PC_Thumbnail_2025.png",
       "https://raw.githubusercontent.com/rin0700/Udon_json_Test/main/SanrioVfes_WorldThumbnail/ChillPark_PC_Thumbnail_2025.png",
       "https://raw.githubusercontent.com/rin0700/Udon_json_Test/main/SanrioVfes_WorldThumbnail/VRC%E3%82%B5%E3%83%A0%E3%83%8D_AMOKA.jpg",
       "https://raw.githubusercontent.com/rin0700/Udon_json_Test/main/SanrioVfes_WorldThumbnail/VRC%E3%82%B5%E3%83%A0%E3%83%8D_Aqours.jpg",
